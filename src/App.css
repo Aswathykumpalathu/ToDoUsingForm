@@ -36,3 +36,49 @@
     transform: rotate(360deg);
   }
 }
+.text {
+  text-align: center;
+}
+
+.fullbody{
+  background-image: url(./images/download.jpeg);
+}
+
+
+
+
+body {
+  background-image: url("./images/download.jpeg");
+  background-size: cover;
+}
+
+.card {
+  width: 500px;
+  height: 500px;
+  background-color: pink;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+form {
+  display: inline-block;
+  text-align: left;
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+button[type="submit"] {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
