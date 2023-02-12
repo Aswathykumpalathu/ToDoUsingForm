@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ToDoUsingForm/static/css/main.4ed1c8a6.css",
+    "main.js": "/ToDoUsingForm/static/js/main.e9207518.js",
+    "static/js/787.439367e2.chunk.js": "/ToDoUsingForm/static/js/787.439367e2.chunk.js",
+    "index.html": "/ToDoUsingForm/index.html",
+    "main.4ed1c8a6.css.map": "/ToDoUsingForm/static/css/main.4ed1c8a6.css.map",
+    "main.e9207518.js.map": "/ToDoUsingForm/static/js/main.e9207518.js.map",
+    "787.439367e2.chunk.js.map": "/ToDoUsingForm/static/js/787.439367e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed1c8a6.css",
+    "static/js/main.e9207518.js"
+  ]
+}
